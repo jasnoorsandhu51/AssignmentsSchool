@@ -1,0 +1,5 @@
+first_name = input("Name: ")
+generic_location = input("Place: ")
+whole_number = input("Number: ")
+plural_noun = input("Noun: ")
+print(first_name, 'went to', generic_location, 'to buy', whole_number, 'different types of', plural_noun)
